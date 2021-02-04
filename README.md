@@ -1,2 +1,5 @@
 # My_geophysics_codes
-When I was studying at UNLP (AR) ) I made some simple codes which I present here to help others understand simple tasks.
+*Simple Python codes made by students of UNLP (AR) - Geophysics.
+*I want to thank Orianna Rangel for all the support in many of the codes presented here.
+*These codes are just for helping others to understand basics of applied geophysics in simple tasks.
+*These codes should be optimized, although I present here the raw-war version.
