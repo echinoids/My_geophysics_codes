@@ -7,6 +7,6 @@
 
 # Legend<br/>
 
-*FIT Physics of the Earth's Interior - Física del Interior Terrestre.<br/>
-*METSIS Seismic Methods - Métodos Sísmicos de Prospección.<br/>
-*METPOT Potential Methods - Métodos Potenciales de Prospección.<br/>
+*FIT Physics of the Earth's Interior &#8594; Física del Interior Terrestre.<br/>
+*METSIS Seismic Methods &#8594; Métodos Sísmicos de Prospección.<br/>
+*METPOT Potential Methods &#8594; Métodos Potenciales de Prospección.<br/>
