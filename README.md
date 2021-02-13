@@ -5,7 +5,7 @@
 *These codes are just for helping others to understand basics of applied geophysics in simple tasks.<br/>
 *These codes should be optimized, although I present here a raw version.<br/>
 
-#Legend<br/>
+# Legend<br/>
 
 *FIT Physics of the Earth's Interior - Física del Interior Terrestre.<br/>
 *METSIS Seismic Methods - Métodos Sísmicos de Prospección.<br/>
