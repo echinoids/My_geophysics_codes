@@ -7,5 +7,6 @@ Potential methods' codes:
 -Steepest descent algorithm applied to gravity data (credits to Cartagena, Tomás; Ramírez, Stephany y Rangel, Orianna).
 -Correlation between height data and free air anomaly data.
 -Nettleton method to calculate density.
+-Magnetic response of a spherical body.
 
 All the codes above are written in spanish and codified in python.
