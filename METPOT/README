@@ -1,1 +1,11 @@
+Potential methods' codes:
 
+-Upward and downward continuation applied to gravity data.
+-Polinomial regression applied to gravity data.
+-Butterworth filter applied to magnetic data.
+-Derivative filters applied to magnetic data.
+-Steepest descent algorithm applied to gravity data (credits to Cartagena, Tomás; Ramírez, Stephany y Rangel, Orianna).
+-Correlation between height data and free air anomaly data.
+-Nettleton method to calculate density.
+
+All the codes above are written in spanish and codified in python.
