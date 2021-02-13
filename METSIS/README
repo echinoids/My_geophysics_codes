@@ -1,7 +1,7 @@
 Seismic Methods' codes:
 
 -Synthetic seismogram of real data.
--Receivers and source arrays' responde.
+-Receivers and source arrays' response.
 -Wiener filter and convolution matrix.
 
 All the codes above are written in spanish and codified in python.
