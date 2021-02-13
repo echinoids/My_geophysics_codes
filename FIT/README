@@ -1,1 +1,8 @@
+Physics of the Earth's interior:
 
+-Accretion model of planets (differential equation systems solution using Euler's method)
+-Non-linear fitting of plate deflection under an end load using objective function minimization.
+-Viscoelasticity models (Maxwell, Kelvin-Voigt and Zener).
+-Geothermal energy and convection.
+
+All codes presented above are written in spanish and codified in python.
