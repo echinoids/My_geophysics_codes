@@ -1,4 +1,4 @@
-# My_geophysics_codes<br/>
+# Geophysics codes <br/>
 
 *Simple Python codes made by students of UNLP (AR) - Geophysics.<br/>
 *I want to thank Orianna Rangel for all the support in many of the codes presented here.<br/>
